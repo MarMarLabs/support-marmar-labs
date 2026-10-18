@@ -1,6 +1,6 @@
 # Support MarMar Labs
 
-GitHub Sponsors for `marmar9615-cloud` is currently pending approval. Until that profile goes live, you can support MarMar Labs through this temporary Stripe link:
+GitHub Sponsors for `MarMarLabs` is currently pending approval. Until that profile goes live, you can support MarMar Labs through this temporary Stripe link:
 
 [Support MarMar Labs with a one-time $5 contribution](https://buy.stripe.com/8x228s2ERfXR6BYeUW00004)
 
@@ -15,7 +15,7 @@ MarMar Labs builds AI-native apps, open source tools, developer utilities, and p
 
 ## Current status
 
-The GitHub Sponsors profile for `marmar9615-cloud` has been submitted and is waiting for GitHub review. Once it is approved, this repository can point people to the official GitHub Sponsors page instead.
+The GitHub Sponsors profile for `MarMarLabs` has been submitted and is waiting for GitHub review. Once it is approved, this repository can point people to the official GitHub Sponsors page instead.
 
 ## Notes
 
