@@ -1,12 +1,12 @@
-# Support MarMar Labs
+# Support MarMarLabs
 
-GitHub Sponsors for `MarMarLabs` is currently pending approval. Until that profile goes live, you can support MarMar Labs through this temporary Stripe link:
+GitHub Sponsors for `MarMarLabs` is currently pending approval. Until that profile goes live, you can support MarMarLabs through this temporary Stripe link:
 
-[Support MarMar Labs with a one-time $5 contribution](https://buy.stripe.com/8x228s2ERfXR6BYeUW00004)
+[Support MarMarLabs with a one-time $5 contribution](https://buy.stripe.com/8x228s2ERfXR6BYeUW00004)
 
 ## What this supports
 
-MarMar Labs builds AI-native apps, open source tools, developer utilities, and practical experiments in public. Contributions help cover time and infrastructure for:
+MarMarLabs builds AI-native apps, open source tools, developer utilities, and practical experiments in public. Contributions help cover time and infrastructure for:
 
 - maintaining public repositories and release notes
 - polishing small tools into usable projects
